@@ -1,4 +1,4 @@
-## React Redux Login, Logout, Registration example using Hooks
+## React Redux Authorization using Hooks
 
 For more detail, please visit:
 > [React Redux Login, Logout, Registration example with Hooks](https://bezkoder.com/react-hooks-redux-login-registration-example/)
